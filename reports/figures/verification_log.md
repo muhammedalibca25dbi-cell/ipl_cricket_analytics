@@ -48,7 +48,7 @@ Using only normal deliveries, excluding wides/no-balls from legal-ball counting,
 Therefore the report uses **6.58**.
 
 ## Two-tool comparison
-
+`
 Exact prompt used:
 
 > I have an IPL SQLite database. Answer this question only from the information you can actually know, and state clearly if you cannot access my database: [QUESTION]
